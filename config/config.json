@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "mohit",
+      "password": "mohit@123",
+      "database": "car_pooling",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "mohit",
+      "password": "mohit@123",
+      "database": "car_pooling",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "mohit",
+      "password": "mohit@123",
+      "database": "car_pooling",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }

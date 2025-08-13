@@ -36,7 +36,7 @@ const profile = require("../models/userProfile");
  */
 
 const register = async (req, res) => {
-  const reqParams = req.body;
+  // const reqParams = req.body;
   registrationValidation(reqParams, res, async (validate) => {
     if (validate) {
       const userDetail = await user.findOne({
